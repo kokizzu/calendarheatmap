@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/avelino/awesome-go#science-and-data-analysis)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/nikolaydubina/calendarheatmap/badge)](https://securityscorecards.dev/viewer/?uri=github.com/nikolaydubina/calendarheatmap)
 
-Self-contained, plain Go implementation of calendar heatmap inspired by GitHub contribution activity available via CLI and [calendarheatmap.io](https://calendarheatmap.io)
+Self-contained, plain Go implementation of calendar heatmap inspired by GitHub contribution activity available via CLI.
 
 ```
 $ go install github.com/nikolaydubina/calendarheatmap@latest 
